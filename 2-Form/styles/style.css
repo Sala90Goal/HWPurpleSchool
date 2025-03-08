@@ -1,0 +1,96 @@
+body {
+    background-color: #F39494;
+}
+
+#window {
+    background-color: #FFFEFE;
+    ;
+}
+
+.href {
+    color: #089FE0;
+    font-family: 'Open Sans', 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: 400
+    ;
+}
+
+.hrefheader {
+    color: #089FE0;
+    font-family: 'Open Sans', 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 400
+    ;
+}
+
+label[for="agree"] {
+    color: #666666;
+    font-family: 'Open Sans', 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-weight: 400
+    ;
+}
+
+input[type="checkbox"] {
+    color: #EEEEEE;
+}
+
+button {
+    color: #FFFFFF;
+    background-color: #089FE0;
+    font-family: 'Open Sans', 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 400
+    ;
+}
+
+#email {
+    color: #999999;
+    background-color:#F5F5F5;
+    font-family: 'Open Sans', 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: 400
+    ;
+    ;
+}
+
+#last_name {
+    color: #999999;
+    background-color: #F5F5F5;
+    font-family: 'Open Sans', 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: 400
+    ;
+}
+
+#name {
+    color: #999999;
+    background-color: #F5F5F5;
+    font-family: 'Open Sans', 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: 400
+    ;
+}
+
+#username {
+    color: #333333;
+    background-color: #F5F5F5;
+    font-family: 'Open Sans', 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: 600
+    ;
+}
+
+#account {
+    color: #666666;
+    font-family: 'Open Sans', 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+h1 {
+    color: #333333;
+    font-family: 'Open Sans', 'Times New Roman', Times, serif;
+    font-size: 36px;
+    font-weight: 700;
+}

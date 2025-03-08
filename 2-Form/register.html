@@ -4,11 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="/2-Form/styles/style.css">
 </head>
 <body>
-    <main>
+    <main id="window">
         <h1>Регистрация</h1>
-        <p>Уже есть аккаунт? <a href="#">Войти</a></p>
+        <p id="account">Уже есть аккаунт? <a href="#" class="hrefheader">Войти</a></p>
         <form action="#">
             <div>
                 <label for="username">Наименование компании</label>
@@ -28,7 +29,7 @@
             <button type="submit">Зарегистрироваться</button>
             <div>
                 <label for="agree">Я прочитал и принимаю</label>
-                <a href="#">Условия использования</a>
+                <a href="#" class="href">Условия использования</a>
                 <input type="checkbox" name="agree" id="agree" required title="Чтобы продолжить, нужно принять условия"> 
             </div>
         </form>
