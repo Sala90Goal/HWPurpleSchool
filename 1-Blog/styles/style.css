@@ -1,0 +1,64 @@
+body {
+    background-color: #374151;
+}
+
+.data {
+    font-family: 'Roboto', 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+h1 {
+    font-family: 'Roboto', 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+    color: #FFFFFF;
+}
+
+footer {
+    font-family: 'Roboto', 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+
+input[type="text"] {
+    color: #FFFFFF;
+    background-color: rgba(31, 41, 55, 0.6);
+    ;
+}
+
+nav a {
+    font-family: 'Roboto', 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 1);
+    text-decoration: none;
+
+}
+
+.develop {
+    font-family: 'Roboto', 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.start {
+    font-family: 'Roboto', 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.end {
+    font-family: 'Roboto', 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: rgba(255, 255, 255, 1);
+}
