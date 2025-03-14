@@ -1,64 +1,86 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     background-color: #374151;
 }
 
-.data {
-    font-family: 'Roboto', 'Times New Roman', Times, serif;
-    font-weight: 400;
+.Poster {
+    list-style: none;
+    font-family: 'Roboto' monospace;
+    font-weight: 400px;
     font-size: 14px;
+    color: #FFFFFF;
+}
+.Blog a {
+    text-decoration: none;
+}
+
+.Blog {
+    font-family: 'Roboto' monospace;
+    font-weight: 400px;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav ul {
+    list-style: none;
+    font-family: 'Roboto' monospace;
+    font-weight: 400px;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+form input {
+    width: 224px;
+    height: 40px;
+    border-radius: 100px;
+    background-color: rgba(31, 41, 55, 0.6);
+    color: #FFFFFF;
 }
 
 h1 {
-    font-family: 'Roboto', 'Times New Roman', Times, serif;
-    font-weight: 400;
+    width: 525px;
+    height: 76px;
+    margin: 0 auto 30px;
+    font-family: 'Roboto' monospace;
+    font-weight: 400px;
     font-size: 24px;
     line-height: 38px;
     color: #FFFFFF;
 }
 
-footer {
-    font-family: 'Roboto', 'Times New Roman', Times, serif;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 28px;
-    color: #FFFFFF;
-}
-
-input[type="text"] {
-    color: #FFFFFF;
-    background-color: rgba(31, 41, 55, 0.6);
-    ;
-}
-
-nav a {
-    font-family: 'Roboto', 'Times New Roman', Times, serif;
-    font-weight: 400;
-    font-size: 18px;
-    color: rgba(255, 255, 255, 1);
-    text-decoration: none;
-
-}
-
-.develop {
-    font-family: 'Roboto', 'Times New Roman', Times, serif;
-    font-weight: 400;
+.Develop {
+    width: 214px;
+    height: 53px;
+    font-family: 'Roboto' monospace;
+    font-weight: 400px;
     font-size: 14px;
     line-height: 28px;
-    color: rgba(255, 255, 255, 1);
+    color: #FFFFFF;
+    margin: 30px auto 31px;
 }
 
-.start {
-    font-family: 'Roboto', 'Times New Roman', Times, serif;
-    font-weight: 400;
+.Article {
+    font-family: 'Roboto' monospace;
+    font-weight: 400px;
     font-size: 20px;
     line-height: 32px;
-    color: rgba(255, 255, 255, 1);
+    color: #FFFFFF;
 }
 
-.end {
-    font-family: 'Roboto', 'Times New Roman', Times, serif;
-    font-weight: 400;
+footer {
+    width: 226px;
+    height: 28px;
+    margin: 0 auto 77px;
+    font-family: 'Roboto' monospace;
+    font-weight: 400px;
     font-size: 16px;
-    line-height: 30px;
-    color: rgba(255, 255, 255, 1);
+    line-height: 28px;
+    color: #FFFFFF;
 }
